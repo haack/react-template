@@ -1,4 +1,4 @@
-# aroundhere-locals
+# Awesome react template 
 
 ## Instructions
 
